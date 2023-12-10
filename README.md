@@ -1,5 +1,12 @@
 ## TO DO Application with Service Repository Pattern Implementation For API Security And Well Structuring
 
+## IMPORTANT NOTE
+
+The complete project lies in master branch not in main.
+You can checkout to master to check the code base and can switch the banch from main to master on GITHUB.
+
+## IMPORTANT NOTE
+
 <!-- ## Things Involved ## -->
 
 1. Service Provider for dependancy injection of the service class via singleton implementation to create the instance for first time only and use that through out the application.
